@@ -1,2 +1,6 @@
 # Waveform-Visualization-Tool
-Monitor heart rate using bokeh and python.
+Check the infomation poster for a detailed description.
+Three versions:
+Tabs: Shows tabs view
+ICU: Shows ICU view
+Stream: Streams ICU view
